@@ -6,8 +6,9 @@
 [![Senan Hogan-Hennessy Google Scholar](https://img.shields.io/badge/google-scholar-success)](
 https://scholar.google.com/citations?user=pCnyNT8AAAAJ&hl)
 
-My name is Senan, and I am a PhD student in the Department of Economics at [Cornell University](https://economics.cornell.edu/senan-hogan-hennessy), where my research focuses on estimating causal effects and applications in economics.
+My name is Senan, and I am a PhD student in the Department of Economics at [Cornell University](https://economics.cornell.edu/senan-hogan-hennessy), where I research labour economics.
 
-I host the materials behind my research work here, in an open-source manner when possible.
+I host the data and materials behind my research work here, open-source when possible:
 
-- 👨‍🏫👩‍🏫 [state-faculty-composition](https://github.com/shoganhennessy/state-faculty-composition), "Changes in Faculty Composition and Stagnating State Support for Higher Education" (2022), an empirical economics project using data on universities, and public data on professors in the state of Illinois.
+- 👨‍🏫👩‍🏫 [Less Funding, More Lecturers, and Fewer Professors (2024)](https://github.com/shoganhennessy/state-funding-faculty/), an economics project connecting falling US education funding with substituting professors for lecturers.
+The Github repo hosts the replication package and data.
