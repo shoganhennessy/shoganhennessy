@@ -6,7 +6,7 @@
 [![Senan Hogan-Hennessy Google Scholar](https://img.shields.io/badge/google-scholar-success)](
 https://scholar.google.com/citations?user=pCnyNT8AAAAJ&hl)
 
-My name is Senan, and I am a PhD student in the Department of Economics at [Cornell University](https://economics.cornell.edu/senan-hogan-hennessy), where I research labour economics.
+My name is Senan, and I am a PhD student in the Economics Department at [Cornell University](https://economics.cornell.edu/senan-hogan-hennessy), where I research labour economics.
 
 I host the data and materials behind my research work here, open-source when possible:
 
