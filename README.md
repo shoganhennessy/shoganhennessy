@@ -10,5 +10,8 @@ My name is Senan, and I am a PhD student in the Economics Department at [Cornell
 
 I host the data and materials behind my research work here, open-source when possible:
 
+- 📈📉 [Causal Mediation in Natural Experiments (2025)](https://github.com/shoganhennessy/mediation-natural-experiment/), applied econometrics project showing how mediation works (or does not work) in a quasi-experimental/observational setting --- and what to do about it.
+The Github repo hosts the working paper, and simulation code.
+
 - 👨‍🏫👩‍🏫 [Less Funding, More Lecturers, and Fewer Professors (2024)](https://github.com/shoganhennessy/state-funding-faculty/), an economics project connecting falling US education funding with substituting professors for lecturers.
-The Github repo hosts the replication package and data.
+The Github repo hosts the paper, replication package, and public data.
